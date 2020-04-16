@@ -1,0 +1,4 @@
+this document is used to create shell scripts
+echo Is to print anything
+Dd  is to delete anything in script
+i is to insert anything
